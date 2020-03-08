@@ -24,7 +24,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://127.0.0.1:3306/mysql?serverTimezone=GMT%2B8
     username: root
-    password: 111
+    password: 123456
 
 eureka:
   # 指定eureka服务中心
@@ -59,7 +59,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://127.0.0.1:3306/mysql?serverTimezone=GMT%2B8
     username: root
-    password: 111
+    password: 123456
 
 eureka:
   # 指定eureka服务中心
